@@ -1,0 +1,73 @@
+body{
+    background-image: url(maletsunyane.jpg);
+}
+
+
+a{
+    list-style: none;
+    margin-left: 30px;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+    float: right;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+h2{
+    font-family: Cooper Black;
+    text-align: center;
+}
+
+a:hover{
+    color: purple;
+}
+
+nav{
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    background-color: gray;
+    margin-top: 5px;
+    height: 50px;
+    border-radius: 1cm;
+}
+
+a1{
+    color: black;
+    margin-left: 15px;
+    font-size: 35px;
+    font-family: Times New Roman;
+}
+
+header{
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: times;
+    background-color: black;
+ 
+}
+
+h1,p{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+p{
+    float: right;
+}
+
+img{
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 50%;
+    margin-left: 450px;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: whitesmoke;
+    height: 20px;
+}

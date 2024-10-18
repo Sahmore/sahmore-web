@@ -1,0 +1,76 @@
+h1{
+    font-size: 80px;
+    font-style: italic;
+    color: white;
+    float: left;
+    
+}
+body{
+     background-color: black;
+     justify-content: center;
+}
+
+nav{
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    background-color: gray;
+    margin-top: 0.005px;
+    height: 50px;
+    border-radius: 1cm;
+}
+
+img{
+    width: 650px;
+    height: 350px;
+    float: right;
+    background-color: yellow;
+    border-radius: 10%;
+}
+
+p1{
+    font-size: 90px;
+    color: black;
+    font-family: times new roman;
+    float: left;
+
+}
+
+a{
+    list-style: none;
+    margin-left: 30px;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+    float: right;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+a:hover{
+    color: purple;
+}
+
+P{
+    font-size: 55px;
+    color: gainsboro;
+    font-family: arial;
+}
+
+p1{
+    background-color: peachpuff;
+    width: 1350PX;
+}
+
+a1{
+    color: black;
+    margin-left: 15px;
+    font-size: 35px;
+    font-family: Times New Roman;
+    padding: 15px;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+}

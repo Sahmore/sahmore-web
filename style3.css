@@ -1,0 +1,61 @@
+P{
+    font-size: 90px;
+    font-family: Times New Roman;
+    font: bold;
+    background-color: orange;
+    height: 180px;
+}
+
+main{
+    background-position: center;
+    background-size: cover;
+}
+
+video{
+    width: 1000px;
+    height: 900px;
+}
+
+a{
+    list-style: none;
+    margin-left: 30px;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+    float: right;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+a:hover{
+    color: purple;
+}
+
+nav{
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    background-color: gray;
+    margin-top: 5px;
+    height: 50px;
+    border-radius: 1cm;
+
+}
+
+body{
+    background-image: url(kaymore.jpg);
+}
+
+a1{
+    color: black;
+    margin-left: 15px;
+    font-size: 35px;
+    font-family: Times New Roman;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
